@@ -1,5 +1,5 @@
 # Article
-[Apple’s New ‘Game Changer’ iPhone Update Brings Starlink Satellite Access] (https://www.forbes.com/sites/davidphelan/2025/02/01/apples-new-game-changer-iphone-update-brings-starlink-satellite-access/)
+[Apple’s New ‘Game Changer’ iPhone Update Brings Starlink Satellite Access](https://www.forbes.com/sites/davidphelan/2025/02/01/apples-new-game-changer-iphone-update-brings-starlink-satellite-access/)
 
 ## My Reflection
 The new Apple iOS brings forth a major change: introducing Starlink to iPhones. This technology came as a surprise to consumers since Apple kept the project under wraps. While the technology allows users to stay connected in remote areas, it also brings forth outrage amongst users who dislike Elon Musk and his technologies (this was not mentioned in the article, but I've read it elsewhere).
